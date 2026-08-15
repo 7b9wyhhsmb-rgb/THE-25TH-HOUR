@@ -1,0 +1,26 @@
+# Dependencies
+node_modules/
+
+# Production builds and TypeScript build metadata
+dist/
+*.tsbuildinfo
+vite.config.js
+vite.config.d.ts
+
+# Local environment files and logs
+.env
+.env.*
+!.env.example
+*.log
+
+# Local design/test artifacts and browser profiles
+.impeccable/
+outputs/
+tmp/
+work/
+
+# OS/editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
