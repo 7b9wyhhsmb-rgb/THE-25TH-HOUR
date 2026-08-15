@@ -1,4 +1,4 @@
-# THE 25TH HOUR editable storefront
+# THE 25TH HOUR香氛品牌官网
 
 ## 商品图片换图
 
@@ -19,7 +19,7 @@ public/assets/images/products/midnight-studio/
 
 当前商品按 `香水 → 香氛 → 身体油 → 卸妆膏` 排列；分类入口同样从 `src/data/site.ts` 的 `categories` 数组读取。
 
-Desktop-first React/Vite fragrance storefront based on the supplied Aesop reference.
+THE 25TH HOUR 香氛品牌官方网站，使用 React、TypeScript 与 Vite 构建。
 
 ## Run
 
